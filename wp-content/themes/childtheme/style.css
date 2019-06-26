@@ -7,3 +7,39 @@ Template: twentysixteen
 */
 
 @import url('../twentysixteen/style.css');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Montserrat&display=swap');
+
+/*
+font-family: 'Amatic SC', cursive;
+font-family: 'Montserrat', sans-serif;
+*/
+
+.entry-title {
+    font-family: 'Amatic SC', cursive;
+   }
+
+.site-branding .site-title {
+	font-family: 'Amatic SC', cursive;
+	font-size: 46px;
+}
+
+.site-branding .site-title a:hover, .site-branding .site-title a:focus
+{
+	color:#cf8a12;
+}
+
+body, button, input, select, textarea {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.site-description {
+	font-size: 23px;
+}
+
+.site {
+	background-color: #f2edb0;
+}
+
+.main-navigation a:hover, .main-navigation a:focus {
+    color: #cf8a12;
+}
