@@ -1,0 +1,9 @@
+/*
+Theme Name: childtheme
+Description: Child theme based on Twentysixteen
+Author: Alvaro Duarte
+Version: 1.0
+Template: twentysixteen
+*/
+
+@import url('../twentysixteen/style.css');
