@@ -43,3 +43,8 @@ body, button, input, select, textarea {
 .main-navigation a:hover, .main-navigation a:focus {
     color: #cf8a12;
 }
+
+a {
+	color: #cf8a12
+}
+
